@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WeekDaySelector">
+        <attr name="selected_date_circle_color" format="color"/>
+        <attr name="holiday_circle_color" format="color"/>
+    </declare-styleable>
+</resources>
