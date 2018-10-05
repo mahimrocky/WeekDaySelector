@@ -1,6 +1,9 @@
 # WeekDaySelector
 This library help to pick date of per week base date.
 
+Sample
+![Alt Text](https://github.com/mahimrocky/WeekDaySelector/blob/master/screen.png)
+
 # Root Gradle
 ```sh
     allprojects {
